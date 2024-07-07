@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    user-select: none;
+  box-sizing: border-box;
+}
+
+.layout{
+    width: 100vw;
+    height: 100vh;
+}
